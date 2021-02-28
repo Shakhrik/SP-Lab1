@@ -24,3 +24,4 @@ int main()
 		printf("\n%d. The given sentence in LOWERCASE : %s ",j+1, lower);
     }
 }
+
