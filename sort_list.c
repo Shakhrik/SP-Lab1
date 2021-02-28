@@ -76,8 +76,7 @@ int main()
 	// Descending order
 	printf("\nThe descending order of the list:\n");
 	DescendingSort(copiedList, n);
-	Display(copiedList, n);
-		
+	Display(copiedList, n);		
 }		
 			
 			
